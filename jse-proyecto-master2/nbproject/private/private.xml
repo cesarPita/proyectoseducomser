@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="EDUCOMSER">
+            <file>file:/D:/Hugo/jse-productos/src/com/educomser/util/Conexion.java</file>
+            <file>file:/D:/Hugo/jse-productos/src/com/educomser/domain/Producto.java</file>
+            <file>file:/D:/Hugo/jse-productos/src/com/educomser/dao/ProductoDao.java</file>
+            <file>file:/D:/Hugo/jse-productos/src/com/educomser/test/TestProductoEditar.java</file>
+            <file>file:/D:/Hugo/jse-productos/src/com/educomser/test/TestProductoListar.java</file>
+            <file>file:/D:/Hugo/jse-productos/src/com/educomser/test/TestProductoGuardar.java</file>
+            <file>file:/D:/Hugo/jse-productos/src/com/educomser/test/TestProductoEliminar.java</file>
+            <file>file:/D:/Hugo/jse-productos/src/com/educomser/ventana/producto/ListarProducto.java</file>
+            <file>file:/D:/Hugo/jse-productos/src/com/educomser/dao/impl/ProductoDaoImpl.java</file>
+        </group>
+        <group/>
+    </open-files>
+</project-private>
